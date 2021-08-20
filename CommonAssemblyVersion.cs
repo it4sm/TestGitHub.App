@@ -1,1 +1,1 @@
-﻿[assembly: System.Reflection.AssemblyVersionAttribute("2021.0820.12")]
+﻿[assembly: System.Reflection.AssemblyVersionAttribute("2021.0820.14")]
